@@ -3,8 +3,11 @@
 The following section describes the complete process of building our Arduino-based Stranger Things alphabet light wall. The guide is structured in clearly defined phases to ensure a logical workflow. From initial preparation (1) and testing (2) to assembling the full prototype (3).
 
 
-## Preparation Phase
+## (1) Preparation
 Before assembling the full system, we focused on testing components and preparing the wiring structure.
+
+<details>
+<summary>Show more</summary>
 
 ### 1.1 Testing the Jumper Wires
 We began by testing the male-to-female jumper wires using a simple circuit on a breadboard. This step ensured:
@@ -28,8 +31,13 @@ This significantly reduced confusion later in the assembly process and made debu
 <img src="https://github.com/user-attachments/assets/2694089c-385f-4749-b80f-a97ce64c54ec" width="400">
 <img src="https://github.com/user-attachments/assets/ec86cba5-d107-423b-ab94-9d18cd2a2861" width="400">
 
-## Testing Phase
+</details>
+
+## (2) Testing
 Once the basic preparation was complete, we moved on to building and testing the core circuit logic.
+
+<details>
+<summary>Show more</summary>
 
 ### 2.1 Connecting the Breadboards and Shift Register
 We connected the two breadboards and integrated the shift register into the circuit.
@@ -53,8 +61,13 @@ We performed initial test runs using simple output sequences. If issues occurred
 <img src="https://github.com/user-attachments/assets/eb1cf93b-427c-4824-ae93-f506c0b48984" width="400">
 <img src="https://github.com/user-attachments/assets/fc85b4b9-afa3-401c-bed8-2d9f44693a82" width="400">
 
-## First Full Assembly Phase
+</details>
+
+## (3) First Full Assembly
 After successful functional testing, we proceeded to assemble the complete light wall prototype.
+
+<details>
+<summary>Show more</summary>
 
 ### 3.1 Determining the Correct Letter Order
 Before permanently installing the LEDs, we carefully arranged them in alphabetical order.
@@ -82,6 +95,8 @@ We verified:
 * Overall responsiveness of the system
 
 <img src="https://github.com/user-attachments/assets/8c2b609f-fe6a-4066-a4f8-7dcd2a30a093" width="800">
+
+</details>
 
 ## Result
 At this point, we had finalized a fully functional prototype of our Stranger Things alphabet light wall
