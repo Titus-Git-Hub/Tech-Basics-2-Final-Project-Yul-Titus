@@ -44,7 +44,7 @@ If you are not familiar with this scene, you can watch it here: <br>
 
 This repository includes all essential information about the project, such as: <br>
 - [A complete list of the materials used](Materials/TBD)
-- [Step-by-step instructions for building and implementing the functional light wall](Instruction/step-by-step-instruction)
+- [Step-by-step instructions for building and implementing the functional light wall](Instruction/step-by-step-instruction.md)
 - [The full source code](Code/TBD)
 - [A guide on how to design and decorate the wall to closely resemble the original prop,
   including a detailed list of required materials](Decoration/TBD)
