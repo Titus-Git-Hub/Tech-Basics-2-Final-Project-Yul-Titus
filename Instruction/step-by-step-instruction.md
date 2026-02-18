@@ -51,7 +51,7 @@ Careful wiring here was critical, as small mistakes could affect the entire syst
 <img src="https://github.com/user-attachments/assets/ed5289e3-700b-4135-8759-7d3643f8dbd0" width="400">
 
 ### 2.2 Uploading the Code and Testing Individual LEDs
-After completing the wiring, we uploaded the Arduino code to the board + connected and tested selected LEDs.
+After completing the wiring, we uploaded the [Arduino code](../Code/TBD) to the board + connected and tested selected LEDs.
 The purpose of this step was to:
 * Verify communication between Arduino and shift register
 * Test whether outputs were triggered correctly or any wiring errors were present
@@ -100,5 +100,5 @@ We verified:
 
 ## Result
 At this point, we had finalized a fully functional prototype of our Stranger Things alphabet light wall
-While the prototype works as intended, the final step involves aesthetic customization and decoration to closely match the look of the original wall from the series.
+While the prototype works as intended, the final step involves [aesthetic customization and decoration](../Decoration/TBD) to closely match the look of the original wall from the series.
 
