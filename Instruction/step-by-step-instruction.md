@@ -98,7 +98,47 @@ We verified:
 
 </details>
 
+## Interim Result
+At this stage, we had completed a fully functional prototype of our Stranger Things alphabet light wall.
+While the system worked reliably from a technical perspective, we identified several areas where the overall user experience could be improved. These observations motivated the final refinements described in the following section.
+
+## (4) Final Additions
+After successfully completing the working prototype, we implemented several final improvements to enhance usability and overall interaction quality.
+
+<details> 
+<summary>Show more</summary>
+
+### 4.1 Changing the Input Method
+During testing, we encountered recurring issues with the 4x4 matrix keypad module.  Input was occasionally not recognized correctly, which negatively impacted reliability and caused disruptions in the interaction flow.
+Since we had already gained experience working with LCD displays and joystick modules, we decided to redesign the input system entirely. The new concept uses:
+* A 1602 I2C LCD display to visualize the alphabet
+* A joystick module for navigation and letter selection
+
+This solution provided a significantly more intuitive and stable input method. Users can now scroll through the alphabet and select letters in a clear and controlled way, improving both reliability and overall user experience.
+
+The updated setup looks as follows: 
+PICTURE + PICTURE
+
+This implementation matched our original vision much more closely in terms of both functionality and interaction design.
+
+### 4.2 Sound Addition
+As a final enhancement, we integrated a buzzer into the system to provide acoustic feedback.
+
+Each letter activation is now accompanied by a sound signal, creating a stronger interactive experience. 
+
+Additionally, during the “chaos mode,” the buzzer generates dynamic sound patterns to complement the visual effects and create a more dramatic atmosphere, which is inspired by the actual szene from the series.
+
+The integration of the buzzer was technically straightforward and required only minor adjustments to the existing code and wiring.
+
+The final setup including sound implementation:
+PICTURE + PICTURE
+
+</details>
+
 ## Result
-At this point, we had finalized a fully functional prototype of our Stranger Things alphabet light wall
-While the prototype works as intended, the final step involves [aesthetic customization and decoration](../Decoration/TBD) to closely match the look of the original wall from the series.
+With all improvements implemented, we successfully completed the updated version of our prototype.
+
+The system now operates reliably, provides clear and intuitive input handling, and delivers both visual and acoustic feedback for an engaging user experience.
+
+The final step involves aesthetic customization and decoration to closely replicate the appearance of the original wall from the series. This phase focuses purely on visual design and presentation and is documented separately under [aesthetic customization and decoration](..Decoration/TBD).
 
