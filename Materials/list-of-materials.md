@@ -20,17 +20,17 @@ If you intend to rebuild the project in the same configuration, please make sure
 -> _26X_ - **LED** (2 starter kits) <br>
 ![IMG_LED](https://github.com/user-attachments/assets/93c35655-b1aa-4a1e-b8a6-70f58f6b45cb)
 
--> _?X_ - **Jumper Wire** (2 starter kits) <br>
+-> _62X_ - **Jumper Wire (regular, different sizes)** (2 starter kits) <br>
 ![IMG_Jumper-Wire](https://github.com/user-attachments/assets/8e3d7209-744c-43dc-9974-ae86bcd0e15b)
 
--> _?X_ - **Male to Female Jumper Wire** (More than 2 starter kits) <br>
+-> _64X_ - **Male to Female Jumper Wire** (More than 2 starter kits) <br>
 ![IMG_Male-to-Female_Jumper-Wire](https://github.com/user-attachments/assets/cbb9c0e2-4277-46e3-ac26-f7cfe05bf24f)
 
--> _?Y_ - **Resistors 220** (2 starter kits) <br>
+-> _20Y_ - **Resistors 220** (2 starter kits) <br>
 ![IMG_Resistor-220](https://github.com/user-attachments/assets/bcc22742-7910-40f9-975d-2625e1b1be72)
 
--> _?Y_ - **Resistors 330** (2 starter kits) <br>
-![IMG_Resistor-330]()
+-> _6Y_ - **Resistors 330** (1 starter kit) <br>
+![IMG_Resistor-330](https://github.com/user-attachments/assets/7001949f-fb56-40ca-8bad-b25ba1071233)
 
 -> _1X_ - **Passive Buzzer** (1 starter kit) <br>
 ![IMG_Passive-Buzzer](https://github.com/user-attachments/assets/e6f38104-ea16-4b5a-8db5-8f91749b8999)
