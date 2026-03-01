@@ -142,5 +142,5 @@ With all improvements implemented, we successfully completed the updated version
 
 The system now operates reliably, provides clear and intuitive input handling, and delivers both visual and acoustic feedback for an engaging user experience.
 
-The final step involves aesthetic customization and decoration to closely replicate the appearance of the original wall from the series. This phase focuses purely on visual design and presentation and is documented separately under [aesthetic customization and decoration](..Decoration/TBD).
+The final step involves aesthetic customization and decoration to closely replicate the appearance of the original wall from the series. This phase focuses purely on visual design and presentation and is documented separately under [aesthetic customization and decoration](../Decoration/TBD).
 
