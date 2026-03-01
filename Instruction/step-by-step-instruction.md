@@ -116,10 +116,10 @@ Since we had already gained experience working with LCD displays and joystick mo
 
 This solution provided a significantly more intuitive and stable input method. Users can now scroll through the alphabet and select letters in a clear and controlled way, improving both reliability and overall user experience.
 
-The updated setup looks as follows: 
-PICTURE + PICTURE
+The updated setup looks as follows and matched our original vision much more closely in terms of both functionality and interaction design.: 
 
-This implementation matched our original vision much more closely in terms of both functionality and interaction design.
+<img src="https://github.com/user-attachments/assets/5c4d908c-8466-4abc-9530-1010e017db66" width="400">
+<img src="https://github.com/user-attachments/assets/a305855b-92d4-4ef5-9dcd-c40568910dad" width="400">
 
 ### 4.2 Sound Addition
 As a final enhancement, we integrated a buzzer into the system to provide acoustic feedback.
@@ -131,7 +131,9 @@ Additionally, during the “chaos mode,” the buzzer generates dynamic sound pa
 The integration of the buzzer was technically straightforward and required only minor adjustments to the existing code and wiring.
 
 The final setup including sound implementation:
-PICTURE + PICTURE
+
+<img src="https://github.com/user-attachments/assets/9ba1333f-8bde-45bc-b1b7-aac3844a0d80" width="400">
+<img src="https://github.com/user-attachments/assets/11a8a59a-7675-4991-a044-14c4b09acda6" width="400">
 
 </details>
 
