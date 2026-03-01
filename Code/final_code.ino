@@ -1,3 +1,6 @@
+// To develop the code, we drew on the materials provided in the seminar 
+// while also leveraging the support of ChatGPT to effectively bring our ideas to life.
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
