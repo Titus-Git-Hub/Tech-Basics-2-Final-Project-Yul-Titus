@@ -2,4 +2,4 @@ The following link leads to the demo video, which has been uploaded to YouTube d
 
 Enjoy Watching The Final Result!
 
-[-> WATCH THE FULL DEMO VIDEO ON YOUTUBE <-](https://youtu.be/8OYiujgGSEI)
+<a href="https://youtu.be/8OYiujgGSEI" target="_blank">-> WATCH THE FULL DEMO VIDEO ON YOUTUBE <-</a>
