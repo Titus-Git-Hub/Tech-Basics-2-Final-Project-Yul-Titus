@@ -53,7 +53,7 @@ _Understanding how Will ended up there and what exactly is happening in Hawkins 
 -------
 
 If you are not familiar with this scene and are still wondering about it, you can watch it here: <br>
-<a href="https://www.youtube.com/watch?v=jIQ9z2bxXyg">>SCENE STRANGER THINGS LINK<</a> <br>
+<a href="https://www.youtube.com/watch?v=jIQ9z2bxXyg">>THE ORIGINAL SCENE FROM STRANGER THINGS<</a> <br>
 <br>
 <p align="center">
 <img width="848" height="420" alt="Stranger Things Alphabet Wall" src="https://github.com/user-attachments/assets/41c8408b-3c91-4f16-a90f-736963a7faaa" />
