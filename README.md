@@ -75,4 +75,12 @@ design process behind our project. <br>
 
 -------
 
+**Division of work** <br>
+
+Regarding the division of work, we tried to meet in person as much as possible rather than working separately. Over the course of the project we had around ten sessions together, where we'd go over our progress, talk through what we'd done so far and occasionally look back at our Gists to remind ourselves how certain things were implemented. <br>
+
+Yul mainly took care of wiring the LEDs onto the board, while Titus handled the documentation side by taking photos and keeping the GitHub repository up to date. That said, it never really felt like a strict division; we helped each other out wherever needed and things came together pretty naturally as a team.
+
+-------
+
 As a final highlight, our [DEMO VIDEO](Demo-Video/link-to-the-demo-video.md) showcases the complete project in action. It combines all steps and phases outlined in this documentation, allowing you to see the full implementation and functionality of the alphabet light wall. We hope it provides a clear and engaging overview of our work from start to finish.
