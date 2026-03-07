@@ -62,7 +62,7 @@ If you are not familiar with this scene and are still wondering about it, you ca
 
 -------
 
-**Now Enjoy exploring our project!...** <br>
+**Now Enjoy Exploring Our Project!...** <br>
 
 This repository includes all essential information about the project, such as: <br>
 - A complete list of the [materials](Materials/list-of-materials.md) used
