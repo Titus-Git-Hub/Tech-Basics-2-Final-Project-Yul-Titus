@@ -68,7 +68,7 @@ This repository includes all essential information about the project, such as: <
 - A complete list of the [materials](Materials/list-of-materials.md) used
 - [Step-by-step instruction](Instruction/step-by-step-instruction.md) for building and implementing the functional light wall
 - The full source [code](Code/final_code.ino)
-- A description on how to possibly [design and decorate](Decoration/TBD) the wall to closely resemble the original prop
+- A description on how to possibly [design and decorate](Decoration/decoration-description.md) the wall to closely resemble the original prop
 <br>
 The documentation is intended to provide a clear and comprehensive overview of both the technical implementation and the creative 
 design process behind our project. <br>
