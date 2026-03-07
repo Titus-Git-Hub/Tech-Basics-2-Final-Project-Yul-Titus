@@ -54,4 +54,4 @@ design process behind our project. <br>
 
 -------
 
-As a final highlight, our [DEMO VIDEO](DemoVideo/link-to-the-demo-video.md) showcases the complete project in action. It combines all steps and phases outlined in this documentation, allowing you to see the full implementation and functionality of the alphabet light wall. We hope it provides a clear and engaging overview of our work from start to finish.
+As a final highlight, our [DEMO VIDEO](Demo-Video/link-to-the-demo-video.md) showcases the complete project in action. It combines all steps and phases outlined in this documentation, allowing you to see the full implementation and functionality of the alphabet light wall. We hope it provides a clear and engaging overview of our work from start to finish.
