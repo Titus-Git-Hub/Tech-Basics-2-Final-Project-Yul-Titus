@@ -1,4 +1,4 @@
-# Name: To be determined
+# Lights from the Other Side
 
 This repository documents our final project for the university course “Tech Basics 2”, in which we worked with the Arduino Kit
 throughout the semester. <br>
@@ -34,7 +34,7 @@ For our project, we recreated the iconic “Alphabet Wall” from the Netflix se
 
 -------
 
-**-> Background: Stranger Things** <br>
+**-> Background: Stranger Things (Series)** <br>
 
 _Stranger Things is a popular Netflix series created by Matt Duffer and Ross Duffer. The show first premiered in 2016 and has since gained a large global audience across multiple seasons. It combines elements of science fiction, mystery, horror, and 1980s coming-of-age storytelling._ <br>
 
