@@ -137,7 +137,7 @@ The final setup including sound implementation:
 
 </details>
 
-## Result
+## Final Result
 With all improvements implemented, we successfully completed the updated version of our prototype.
 
 The system now operates reliably, provides clear and intuitive input handling, and delivers both visual and acoustic feedback for an engaging user experience.
